@@ -20,9 +20,9 @@ cd HairFlash
 
 * Download all pretrained models:
 
-Download method weights from [here]() into ./pretrained_models 
+Download method weights from [here](https://disk.yandex.ru/d/orPsLRnDpC0m7A) into ./pretrained_models 
 
-Download loss weights from [here]() into ./losses/lpips/weights
+Download loss weights from [here](https://disk.yandex.ru/d/Tds5J3nJScEEgw) into ./losses/lpips/weights
 
 * Setting the environment
 
