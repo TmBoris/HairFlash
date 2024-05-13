@@ -94,9 +94,3 @@ We use [Weights & Biases](https://wandb.ai/home) to track experiments. Before tr
     ├── 📜 requirements.txt           # Lists required Python packages.
     ├── 📄 hair_swap.py               # Implementation of the HairFast main class
     └── 📄 main.py                    # Script for inference
-
-## References & Acknowledgments
-
-The repository was started from [Barbershop](https://github.com/ZPdesu/Barbershop).
-
-The code [CtrlHair](https://github.com/XuyangGuo/CtrlHair), [SEAN](https://github.com/ZPdesu/SEAN), [HairCLIP](https://github.com/wty-ustc/HairCLIP), [FSE](https://github.com/InterDigitalInc/FeatureStyleEncoder), [E4E](https://github.com/omertov/encoder4editing) and [STAR](https://github.com/ZhenglinZhou/STAR) was also used.
