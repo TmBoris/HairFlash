@@ -775,6 +775,6 @@ def get_parser():
     parser.add_argument('--mixing', type=float, default=0.95, help='hair blending in alignment')
     parser.add_argument('--smooth', type=int, default=5, help='dilation and erosion parameter')
     parser.add_argument('--rotate_checkpoint', type=str, default='pretrained_models/Rotate/rotate_best.pth')
-    parser.add_argument('--blending_checkpoint', type=str, default='pretrained_models/Blending/clip_loss.pth')
+    parser.add_argument('--blending_checkpoint', type=str, default='pretrained_models/Blending/final.pth')
     parser.add_argument('--pp_checkpoint', type=str, default='pretrained_models/PostProcess/pp_model.pth')
     return parser
