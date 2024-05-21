@@ -1,6 +1,6 @@
 ## HairFlash: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach
 
-This repository is the source code of my 3rd year course work in the HSE University: 
+This repository is the source code of my 3rd year course work in the HSE University: [pdf](https://github.com/TmBoris/HairFlash/blob/main/Course_work_3rd_year.pdf)
   
   
 ## Prerequisites
@@ -94,3 +94,7 @@ We use [Weights & Biases](https://wandb.ai/home) to track experiments. Before tr
     ├── 📜 requirements.txt           # Lists required Python packages.
     ├── 📄 hair_swap.py               # Implementation of the HairFast main class
     └── 📄 main.py                    # Script for inference
+
+## Credits
+
+This repository is modified and based on the "HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach" [repository](https://github.com/AIRI-Institute/HairFastGAN).
