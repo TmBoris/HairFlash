@@ -1,6 +1,6 @@
 ## HairFlash: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach
 
-This is my 3rd year course work in the HSE University.
+This repository is the source code of my 3rd year course work in the HSE University: 
   
   
 ## Prerequisites
